@@ -14,7 +14,7 @@ Synchronized scene motion, propagation rays (dynamic components only), and a rad
 
 ## Dynamic channel-gain maps
 
-[![Dynamic channel-gain maps](pre-release/dynamic_channel_gain_map.png)](assets/dynamic_channel_gain_map.png)
+![Dynamic channel-gain maps](pre-release/dynamic_channel_gain_map.png)
 
 A held-out outdoor scene at 6.7 GHz, with 0.5 m grid spacing.
 
