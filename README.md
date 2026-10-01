@@ -4,7 +4,7 @@
 
 DRAFT predicts downlink MIMO-OFDM channel state information (CSI) from uplink observations in dynamic wireless environments.
 
-The manuscript is in preparation. Code and reproducibility materials are planned for release after formal acceptance.
+The manuscript has been submitted to IEEE TMC. Code and reproducibility materials are planned for release after formal acceptance.
 
 ## Scene animation
 
